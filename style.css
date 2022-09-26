@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(101, 103, 246);
+    font-size: 100px;
+    margin-left: 1000px;
+    padding: 2px;
+
+}
+
+* {
+    border:#808080;
+}
+
+.header{
+    background-color:cadetblue ;
+    display: flex;
+    justify-content: space-between ;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly ;
+    flex-wrap:wrap ;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end ;
+    
+}
+
+p,h2{
+    text-align: center;
+}
+body{
+    background-color:#808080 ;
+}
